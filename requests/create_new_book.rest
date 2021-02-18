@@ -1,0 +1,8 @@
+POST http://localhost:3009/api/books
+Content-Type: application/json
+
+{
+    "title": "yuyuyuy",
+    "author": "JJ",
+    "description": "hgfdghdfg"
+}
