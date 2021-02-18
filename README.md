@@ -2,6 +2,10 @@
 
 ## [Live demo](https://desolate-cliffs-70072.herokuapp.com/)  
 
+#### [frontend](https://github.com/alemati/bookManager-frontend)  
+
+Application was created with MERN stack.
+
 If you want to run program locally then:
 * Clone git repository, for instance with ```git clone https://github.com/alemati/bookManager.git```  
 * Move to downloaded repository  
